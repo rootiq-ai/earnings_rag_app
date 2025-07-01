@@ -1,0 +1,75 @@
+# Core Streamlit and Web Framework
+streamlit==1.29.0
+streamlit-aggrid==0.3.4
+streamlit-option-menu==0.3.6
+
+# Data Processing and Analysis
+pandas==2.1.4
+numpy==1.24.3
+scipy==1.11.4
+
+# Vector Database and RAG
+chromadb==0.4.18
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-openai==0.0.2
+sentence-transformers==2.2.2
+
+# AI and ML - Ollama Local LLMs
+ollama==0.1.7
+langchain-ollama==0.0.1
+transformers==4.36.2
+torch==2.1.2
+sentence-transformers==2.2.2
+
+# Web Scraping and API
+requests==2.31.0
+beautifulsoup4==4.12.2
+selenium==4.16.0
+aiohttp==3.9.1
+httpx==0.25.2
+
+# Financial Data APIs
+yfinance==0.2.28
+alpha-vantage==2.3.1
+sec-api==1.0.17
+edgar==5.4.0
+
+# Data Visualization
+plotly==5.17.0
+matplotlib==3.8.2
+seaborn==0.13.0
+altair==5.2.0
+
+# Database and Storage
+sqlite3
+sqlalchemy==2.0.23
+pymongo==4.6.0
+
+# Scheduling and Background Tasks
+schedule==1.2.0
+celery==5.3.4
+redis==5.0.1
+apscheduler==3.10.4
+
+# Environment and Configuration
+python-dotenv==1.0.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+
+# File Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# Logging and Monitoring
+loguru==0.7.2
+structlog==23.2.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-mock==3.12.0
+
+#
